@@ -5,11 +5,18 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/consulta_psicología.jpg");
+  background-image: url("../img/Manos02.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
-
+  background-position: center;
+  background-position-y: 35%;
+  text-shadow: 1px 0 rgb(182, 179, 179), -1px 0 rgb(182, 179, 179), 0 1px rgb(182, 179, 179), 0 -1px rgb(182, 179, 179),
+  1px 1px rgb(182, 179, 179), -1px -1px rgb(182, 179, 179), 1px -1px rgb(182, 179, 179), -1px 1px rgb(182, 179, 179);
+  letter-spacing: 1px ;
+  
+}
+header p {
+  font-size: 18px;
 }
 
 /* Mis trabajos */
